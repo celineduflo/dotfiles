@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"A File Icon"
 	],
 	"installed_packages":
 	[
@@ -14,6 +13,8 @@
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
+		"Latest Migration",
+		"MagicPython",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
